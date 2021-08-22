@@ -1,4 +1,4 @@
-#Usage 
+# Usage
 Create preparation test
 1. Setup command (optional): ```chmod +x ./build/prepare.sh && ./build/prepare.sh```
 2. Run command: ```export DOTNET_CLI_HOME="/tmp" && chmod +x ./build/build.sh && ./build/build.sh```
